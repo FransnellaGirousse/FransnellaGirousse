@@ -6,6 +6,8 @@ I'm currently learning all things about development and specifically how to lear
 I'm looking to collaborate on many projects to see all the methodly development in the world, good luck for me.
 How to reach me : fransnellagirousse@gmail.com
 
+**To continue my digital adventure, I specialized in PHP laravel, still in apprentice mode, like a beginner.**
+
 <br><br>
 More about sayna : https://sayna.io/
 <br><br>
